@@ -1,4 +1,4 @@
 # GITHUB-ACTIONS-NOTES
 
-### References[
+### References
 [Github Actions](https://www.youtube.com/watch?v=UEOtZvTCmDo)https://www.youtube.com/watch?v=UEOtZvTCmDo
