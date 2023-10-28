@@ -12,7 +12,7 @@ Git Repository->Settings->Branch
 ```
 ### Setup Environment Variables (For values inside .env )
 To hide sensitive environment variables
-```
+```vim
 Git Repository->Settings->Environment
                 New Environment->Add = "dev"
                                  Environment secrets->Add secrets
