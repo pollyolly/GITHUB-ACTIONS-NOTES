@@ -10,6 +10,12 @@ Git Repository->Settings->Branch
                 Require Status Check to pass before merging
                           -> Require branches to be up to date before mergin = check
 ```
+### Setup Environment Variables (For values inside .env )
+To hide sensitive environment variables
+```
+Git Repository->Settings->Environment
+                
+```
 ### Create Workflow 
 ```vim
 $cd my_repository or $git clone <remote repository>
