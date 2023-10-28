@@ -14,7 +14,8 @@ Git Repository->Settings->Branch
 To hide sensitive environment variables
 ```
 Git Repository->Settings->Environment
-                New Environment->Environment secrets
+                New Environment->Add = "dev"
+                                 Environment secrets
 ```
 ### Create Workflow 
 ```vim
