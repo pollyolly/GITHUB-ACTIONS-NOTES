@@ -15,7 +15,9 @@ To hide sensitive environment variables
 ```
 Git Repository->Settings->Environment
                 New Environment->Add = "dev"
-                                 Environment secrets
+                                 Environment secrets->Add secrets
+                                                      Name  = "DB"
+                                                      Value = "http://localhost:9000/"
 ```
 ### Create Workflow 
 ```vim
