@@ -18,7 +18,7 @@ $cd .github
 $mkdir workflows
 $touch demo_workflow.yml
 ```
-```yaml
+```yml
 name: Sample App
   on:
     pull_request:
