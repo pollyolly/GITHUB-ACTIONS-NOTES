@@ -46,7 +46,7 @@ jobs:
         python-version: [3.8, 3.9]
 
     env:
-      MODE: ${{ secrets.MODE }}
+      DB: ${{ secrets.DB }}
 
     steps:
       -  uses: actions/checkout@v3
