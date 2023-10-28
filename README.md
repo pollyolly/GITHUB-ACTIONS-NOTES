@@ -13,8 +13,13 @@ Git Repository->Settings->Branch
 Create Workflow 
 ```
 $cd my_repository or $git clone <remote repository>
-$mkdir .github
-$
+$mkdir .github 
+$cd .github
+$mkdir workflows
+$touch demo_workflow.yml
+```
+```
+
 ```
 ### References
 [Github Actions](https://www.youtube.com/watch?v=UEOtZvTCmDo)
