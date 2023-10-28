@@ -10,7 +10,7 @@ Git Repository->Settings->Branch
                 Require Status Check to pass before merging
                           -> Require branches to be up to date before mergin = check
 ```
-Create Workflow 
+### Create Workflow 
 ```
 $cd my_repository or $git clone <remote repository>
 $mkdir .github 
