@@ -27,13 +27,14 @@ name: Sample App
 
 jobs:
   test:
-    runs-on: [ubuntu-latest]
+    runs-on: [ubuntu-latest, centos-latest]
     defaults:
       run:
         working-directory: ./app/
 
     strategy:
       matrix:
+        python-version: [3.8, 3.9]
 
     env:
       MODE: "dev"
