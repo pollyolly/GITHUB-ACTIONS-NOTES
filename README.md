@@ -20,10 +20,10 @@ $touch demo_workflow.yml
 ```
 ```yml
 name: Sample App
-  on:
-    pull_request:
-      branches:
-        - main
+on:
+  pull_request:
+    branches:
+      -  main
 
 jobs:
   test:
