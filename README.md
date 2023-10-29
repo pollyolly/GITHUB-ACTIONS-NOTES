@@ -61,8 +61,8 @@ jobs:
            python -m pip install --upgrade pip
            pip install -r ../requirements.txt
 
-      - name: Test App Code
-        run: python ./main_test.py
+      -  name: Test App Code
+         run: python ./main_test.py
 ```
 ### References
 [Github Actions](https://www.youtube.com/watch?v=UEOtZvTCmDo)
