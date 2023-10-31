@@ -68,3 +68,5 @@ jobs:
 [Github Actions](https://www.youtube.com/watch?v=UEOtZvTCmDo)
 
 [Github Checkout@v4](https://github.com/actions/checkout)
+
+[Github Actions CI/CD](https://dev.to/dpills/devops-cicd-quick-start-guide-with-github-actions-3c2b)
